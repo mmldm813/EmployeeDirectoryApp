@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmployeeDirectoryApp</string>
+    <string name="error_loading_employee_directory">Error loading Employee Directory</string>
+    <string name="empty_employee_list">Empty Employee List</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="team_name">team name</string>
+    <string name="phone_number">phone number</string>
+    <string name="employee_image_content_description">Employee Image</string>
+</resources>
